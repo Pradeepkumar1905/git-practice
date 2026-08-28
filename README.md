@@ -1,7 +1,7 @@
 # Git Practice
 
 ## Project Status
-Learning Git
+Feature Branch Development
 
 ## Current Version
 Version 3
