@@ -8,3 +8,4 @@ Version 3
 
 ## Features
 - Git basics
+- Branching
