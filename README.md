@@ -4,7 +4,7 @@
 Learning Git
 
 ## Current Version
-Version 2
+Version 3
 
 ## Features
 - Git basics
