@@ -1,7 +1,7 @@
 # Git Practice
 
 ## Project Status
-Main Branch Development
+Main and Feature Branch Development
 
 ## Current Version
 Version 3
