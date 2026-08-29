@@ -11,3 +11,4 @@ Version 3
 - Branching
 - Remote repositories
 - Fetching
+- Practical Git workflow
