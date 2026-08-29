@@ -10,3 +10,4 @@ Version 3
 - Git basics
 - Branching
 - Remote repositories
+- Fetching
