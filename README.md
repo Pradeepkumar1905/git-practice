@@ -11,3 +11,5 @@ Version 3
 - Branching
 - Remote repositories
 - Fetching
+- Reset
+- Revert
