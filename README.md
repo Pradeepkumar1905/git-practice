@@ -12,3 +12,4 @@ Version 3
 - Remote repositories
 - Fetching
 - Practical Git workflow
+- Collaboration workflow
