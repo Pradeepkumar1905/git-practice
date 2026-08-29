@@ -9,3 +9,4 @@ Version 3
 ## Features
 - Git basics
 - Branching
+- Remote repositories
